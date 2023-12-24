@@ -22,7 +22,7 @@ Processing Layer เป็นส่วนของการเก็บข้อ
 
 Frontend Layer เป็นส่วนของการแสดงผลโดยจะนำข้อมูลจาด Json Sever ที่ประกอบด้วย id, Pname, Price มาร่วมในการแสดงเพื่อทำการชำระเงิน
 
-![Software](https://drive.google.com/uc?id=1y7ahtlAfwKmUnOH7ypk4NWx8fWe0mtR2)
+![Software](https://drive.google.com/uc?id=1sKEWH6LqLT-iAbHmVHN1A9L140QO1RpL)
 
 Ari
 
