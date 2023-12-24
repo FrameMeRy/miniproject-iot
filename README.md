@@ -16,11 +16,11 @@
 ![System](https://drive.google.com/uc?id=1Pic7np83KYsHdboHVI8eHc9xhwm-jWYE)
 
 
-&nbsp;&nbsp;Collecter Layer เป็นส่วนของการรับข้อมูลจาก RFID เพื่อนำร่วมในการประมวนผลในขั้นตอนต่อไป
+&nbsp;&nbsp;<b>Collecter Layer</b> เป็นส่วนของการรับข้อมูลจาก RFID เพื่อนำร่วมในการประมวนผลในขั้นตอนต่อไป
 
-&nbsp;&nbsp;Processing Layer เป็นส่วนของการเก็บข้อมูล โดยฐานข้อมูลที่เลือกใช้นั้นจะเป็น Json Server และมีตัวกลางในการเชื่อมต่อกับฝั่ง Frontend โดยใช้ Flask 
+&nbsp;&nbsp;<b>Processing Layer</b>  เป็นส่วนของการเก็บข้อมูล โดยฐานข้อมูลที่เลือกใช้นั้นจะเป็น Json Server และมีตัวกลางในการเชื่อมต่อกับฝั่ง Frontend โดยใช้ Flask 
 
-&nbsp;&nbsp;Frontend Layer เป็นส่วนของการแสดงผลโดยจะนำข้อมูลจาด Json Sever ที่ประกอบด้วย id, Pname, Price มาร่วมในการแสดงเพื่อทำการชำระเงิน
+&nbsp;&nbsp;<b>Frontend Layer</b>  เป็นส่วนของการแสดงผลโดยจะนำข้อมูลจาด Json Sever ที่ประกอบด้วย id, Pname, Price มาร่วมในการแสดงเพื่อทำการชำระเงิน
 
 ![Software](https://drive.google.com/uc?id=1sKEWH6LqLT-iAbHmVHN1A9L140QO1RpL)
 
