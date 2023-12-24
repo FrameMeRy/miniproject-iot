@@ -30,7 +30,6 @@
         }
     ]
 }
-```
 ### Data Dictionary
 
 
