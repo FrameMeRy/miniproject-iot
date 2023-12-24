@@ -22,8 +22,7 @@
 
 &nbsp;&nbsp;<b>Frontend Layer</b>  เป็นส่วนของการแสดงผลโดยจะนำข้อมูลจาด Json Sever ที่ประกอบด้วย id, Pname, Price มาร่วมในการแสดงเพื่อทำการชำระเงิน
 
-![Software](https://drive.google.com/uc?id=1sKEWH6LqLT-iAbHmVHN1A9L140QO1RpL)
-
+![Software](https://drive.google.com/uc?id=1VJcwBLK0faJtuf88Hu5aXGh4bZURCj9H)
 
 
 ## Data Stucture
