@@ -11,7 +11,7 @@
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ทางผู้จัดทำโครงงานจึงพัฒนาอุปกรณ์ IoT ที่สามารถชำระเงินผ่านระบบRFID โดยมีข้อมูลที่เก็บเป็นชื่อของผู้ใช้บัตร จำนวนเงิน ไอดี และส่วนที่เป็นสิ้นค้าจะมีชื่อสินค้า ราคา
 
 ## การออกแบบระบบ
-
+https://www.canva.com/design/DAF35JqPZ5Y/YuDiyUcETqCpeJNSbIXWcw/edit?fbclid=IwAR1E64oRmHxQUrmZITS5sMnvi6hTRXEabjlAfEynP1YpzURJul_lvyr-tIc
 ## Function in Operation
 Collecter Layer เป็นส่วนของการรับข้อมูลจาก RFID เพื่อนำร่วมในการประมวนผลในขั้นตอนต่อไป
 
