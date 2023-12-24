@@ -22,7 +22,8 @@
 
 &nbsp;&nbsp;<b>Frontend Layer</b>  เป็นส่วนของการแสดงผลโดยจะนำข้อมูลจาด Json Sever ที่ประกอบด้วย id, Pname, Price มาร่วมในการแสดงเพื่อทำการชำระเงิน
 
-![Software](https://drive.google.com/uc?id=1VJcwBLK0faJtuf88Hu5aXGh4bZURCj9H)
+
+![3](https://github.com/FrameMeRy/miniproject-iot/assets/102577717/d2ee909f-5a3f-4415-8dfb-6d884edb449d)
 
 
 ## Data Stucture
