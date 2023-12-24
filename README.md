@@ -12,7 +12,9 @@
 
 ## การออกแบบระบบ
 
-![system](https://drive.google.com/uc?id=1y7ahtlAfwKmUnOH7ypk4NWx8fWe0mtR2)
+
+![system](https://drive.google.com/uc?id=1Pic7np83KYsHdboHVI8eHc9xhwm-jWYE)
+
 
 Collecter Layer เป็นส่วนของการรับข้อมูลจาก RFID เพื่อนำร่วมในการประมวนผลในขั้นตอนต่อไป
 
@@ -20,7 +22,7 @@ Processing Layer เป็นส่วนของการเก็บข้อ
 
 Frontend Layer เป็นส่วนของการแสดงผลโดยจะนำข้อมูลจาด Json Sever ที่ประกอบด้วย id, Pname, Price มาร่วมในการแสดงเพื่อทำการชำระเงิน
 
-![software](https://drive.google.com/uc?id=1Pic7np83KYsHdboHVI8eHc9xhwm-jWYE)
+![software](https://drive.google.com/uc?id=1y7ahtlAfwKmUnOH7ypk4NWx8fWe0mtR2)
 
 Ari
 
