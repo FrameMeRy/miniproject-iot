@@ -1,4 +1,3 @@
-1q2w3e4r
 # ชื่อโครงการ: BB Payment (bangbank)
 
 ## สมาชิกในกลุ่ม
