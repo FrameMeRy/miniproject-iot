@@ -24,14 +24,14 @@
 
 ![3](https://github.com/FrameMeRy/miniproject-iot/assets/102577717/d2ee909f-5a3f-4415-8dfb-6d884edb449d)
 
-##### Collecter Layer 
+#### Collecter Layer 
 - Arduino เป็นบอร์ดในการรับค่าข้อมูลจาก RFID เพื่อส่งไปให้ ESP8266
 - ESP8266 ใช้สำหรับในการรับค่าจาก Arduino และนำส่งข้อมูลที่ได้ไปยัง MQTT
-##### Processing Layer
+#### Processing Layer
 - MQTT ใช้สำหรับในการรับข้อมูลจาก ESP8266 และส่งข้อมูล ไปยัง Flask เพื่อใช้ในการตรวจสอบ ID ที่ใช้ในการจ่ายเงิน
 - Flask ใช้ในการรับ ID ไปใช้ในระบบจ่ายเงิน รวมถึงการรับข้อมูลสินค้าที่เลือกจากผู้ใช้ และแสดงผลใน Web Frontend
 - JSON เป็น database ที่ใช้ในการเก็บข้อมูลของเจ้าของบัตรและจำนวนเงิน
-##### Frontend Layer
+#### Frontend Layer
 - Frontend มีหน้าที่ในการแสดงผลและส่งข้อมูลสินค้าที่เลือกไปยัง Flask หรือ Web API
 
 
