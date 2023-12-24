@@ -15,11 +15,11 @@
 
 ![System](https://drive.google.com/uc?id=1Pic7np83KYsHdboHVI8eHc9xhwm-jWYE)
 
-#####Collecter Layer เป็นส่วนของการรับข้อมูลจาก RFID เพื่อนำร่วมในการประมวนผลในขั้นตอนต่อไป
+#### Collecter Layer เป็นส่วนของการรับข้อมูลจาก RFID เพื่อนำร่วมในการประมวนผลในขั้นตอนต่อไป
 
-#####Processing Layer เป็นส่วนของการเก็บข้อมูล โดยฐานข้อมูลที่เลือกใช้นั้นจะเป็น Json Server และมีตัวกลางในการเชื่อมต่อกับฝั่ง Frontend โดยใช้ Flask 
+#### Processing Layer เป็นส่วนของการเก็บข้อมูล โดยฐานข้อมูลที่เลือกใช้นั้นจะเป็น Json Server และมีตัวกลางในการเชื่อมต่อกับฝั่ง Frontend โดยใช้ Flask 
 
-####Frontend Layer  เป็นส่วนของการแสดงผลโดยจะนำข้อมูลจาด Json Sever ที่ประกอบด้วย id, Pname, Price มาร่วมในการแสดงเพื่อทำการชำระเงิน
+#### Frontend Layer  เป็นส่วนของการแสดงผลโดยจะนำข้อมูลจาด Json Sever ที่ประกอบด้วย id, Pname, Price มาร่วมในการแสดงเพื่อทำการชำระเงิน
 
 
 ![3](https://github.com/FrameMeRy/miniproject-iot/assets/102577717/d2ee909f-5a3f-4415-8dfb-6d884edb449d)
