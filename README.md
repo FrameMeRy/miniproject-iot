@@ -21,7 +21,12 @@
         {
             "id": 1,
             "Name": "Frame",
-            "Money": 3455
+            "Money": 300
+        },
+        {
+            "id": 2,
+            "Name": "Bank",
+            "Money": 300
         }
     ]
 }
