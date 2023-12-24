@@ -78,5 +78,5 @@ Frontend Layer เป็นส่วนของการแสดงผลโ�
 ## การทดสอบ   
 ## สรุปผลการทดสอบ
 
-![คำอธิบายรูป](https://drive.google.com/uc?id=1Pic7np83KYsHdboHVI8eHc9xhwm-jWYE)
-
+![software](https://drive.google.com/uc?id=1Pic7np83KYsHdboHVI8eHc9xhwm-jWYE)
+![system](https://drive.google.com/uc?id=1y7ahtlAfwKmUnOH7ypk4NWx8fWe0mtR2)
